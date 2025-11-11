@@ -1,6 +1,7 @@
 # Linux-IPC-Shared-memory
 Ex06-Linux IPC-Shared-memory
-
+# NAME: SANTHOSH
+# REG NO : 212224230249
 # AIM:
 To Write a C program that illustrates two processes communicating using shared memory.
 
